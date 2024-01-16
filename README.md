@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sajid11111
+- 👀 I’m interested in web development, machine learning, and open-source projects.
+- 🌱 I’m currently learning React.js and Python.
+- 💞️ I’m looking to collaborate on projects related to data science and web development.
+- 📫 How to reach me: [Your LinkedIn Profile]](https://www.linkedin.com/in/sajid-ur-rehman/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to play the guitar and explore new hiking trails.
